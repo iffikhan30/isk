@@ -17,17 +17,24 @@
                                 <div class="col-sm-12">
                                     <div class="time-item">
                                         <div class="time-year">
-                                            2015-Present
+                                            Aug-19-Present
                                         </div>
                                         <div class="icon-holder-time wow fadeIn">
                                             <i class="ion-ios-circle-outline"></i>
                                         </div>
                                         <h4 class="time-title">
-                                        BulkStudio
+                                        Koderlabs
                                     </h4>
-                                        <h5 class="time-semitag"> Senior Web Designer </h5>
+                                        <h5 class="time-semitag"> Senior UI/UX Engineer </h5>
                                         <p>
-                                            Given two spirit very unto firmament. Fourth and she'd their fruit together.
+                                            <ul>
+                                                <li>Identifying user and system requirements for new websites and applications</li>
+                                                <li>Prioritizing software development projects, setting timelines and assigning tasks to team members</li>
+                                                <li>Run functionality testing and debug code. </li>
+                                                <li>Oversee junior web developers and evaluate their performance</li>
+                                                <li>Liaise with designers to decide on UI/UX elements (like graphics and navigation buttons). </li>
+                                                <li>Implement Scrum our team they can address complex adaptive problems, while productively and creatively delivering products of the highest possible value.</li>
+                                            </ul>
                                         </p>
                                     </div>
                                     <div class="work-item-icon">
@@ -37,17 +44,27 @@
                                 <div class="col-sm-12">
                                     <div class="time-item">
                                         <div class="time-year">
-                                            2014-2015
+                                             Jun 17-Jul 19 
                                         </div>
                                         <div class="icon-holder-time wow fadeIn" data-wow-delay=".25s">
                                             <i class="ion-ios-circle-outline"></i>
                                         </div>
                                         <h4 class="time-title">
-                                        Orion Technology 
+                                        Axact Pvt Ltd.
                                     </h4>
-                                        <h5 class="time-semitag"> Junior Web Designer </h5>
+                                        <h5 class="time-semitag"> Senior Engineer </h5>
                                         <p>
-                                            Given two spirit very unto firmament. Fourth and she'd their fruit together.
+                                            <ul>
+                                                <li>Full Stack Developer.</li>
+                                                <li>Frontend pages with HTML, CSS, jQuery.</li>
+                                                <li>Wordpress theme develop from scratch, also know about hooks.</li>
+                                                <li>Wordpress ecommerce theme development from scratch using woo commerce plugin.</li>
+                                                <li>Wordpress Plugin development as per requirement. </li>
+                                                <li>Opencart 2.3 theme develop from scratch, also know about controller, model and view.</li>
+                                                <li>Opencart 3 using purchase theme integrate. </li>
+                                                <li>Magento 1.9 theme develop from scratch, also know about how to create cms block. </li>
+                                                <li>Magento 2 theme integration.</li>
+                                            </ul>
                                         </p>
                                     </div>
                                 </div><!-- /.col-md-12 -->
@@ -55,17 +72,88 @@
                                 <div class="col-sm-12">
                                     <div class="time-item">
                                         <div class="time-year">
-                                            2013-2014
+                                            Jan 16–Jun 17 
                                         </div>
                                         <div class="icon-holder-time wow fadeIn" data-wow-delay=".5s">
                                             <i class="ion-ios-circle-outline"></i>
                                         </div>
                                         <h4 class="time-title">
-                                        Cubic Web Development Agency
+                                        INFINITE TECHNOLOGIES
                                     </h4>
-                                        <h5 class="time-semitag"> Developer Internship </h5>
+                                        <h5 class="time-semitag"> PHP Developer </h5>
                                         <p>
-                                            Given two spirit very unto firmament. Fourth and she'd their fruit together.
+                                            <ul>
+                                                <li>PHP Developed CRM. CRM Modules, Roles, Fees submitting.</li>
+                                                <li>Codeignitor Framework built in house portal development. Modules, Attendance, Roles, Leaves, Desktop Notification, Feedback form, Grievance from, Approval flow, Using Angular for filtering data</li>
+                                                <li>Opencart 2.3 theme develop from scratch.</li>
+                                                <li>Wordpress theme develop from scratch. </li>
+                                                <li>Prestashop a bit flavor of prestashop</li>
+                                            </ul>
+                                        </p>
+                                    </div>
+                                </div><!-- /.col-md-12 -->
+
+                                <div class="col-sm-12">
+                                    <div class="time-item">
+                                        <div class="time-year">
+                                            Sep 14–Dec 15 
+                                        </div>
+                                        <div class="icon-holder-time wow fadeIn" data-wow-delay=".5s">
+                                            <i class="ion-ios-circle-outline"></i>
+                                        </div>
+                                        <h4 class="time-title">
+                                        QUADISTIC MEDIA
+                                    </h4>
+                                        <h5 class="time-semitag"> PHP Developer </h5>
+                                        <p>
+                                            <ul>
+                                                <li>Php/Wordpress Team Lead. </li>
+                                                <li>Improved Frontend Skills.</li>
+                                                <li>CI Framework built client web application. </li>
+                                            </ul>
+                                        </p>
+                                    </div>
+                                </div><!-- /.col-md-12 -->
+
+                                <div class="col-sm-12">
+                                    <div class="time-item">
+                                        <div class="time-year">
+                                            Feb 14–Aug 14 
+                                        </div>
+                                        <div class="icon-holder-time wow fadeIn" data-wow-delay=".5s">
+                                            <i class="ion-ios-circle-outline"></i>
+                                        </div>
+                                        <h4 class="time-title">
+                                        SOCIAL BULLETS
+                                    </h4>
+                                        <h5 class="time-semitag"> PHP Wordpress Developer </h5>
+                                        <p>
+                                            <ul>
+                                                <li>Wordpress theme development from scratch. </li>
+                                                <li>Wordpress Plugin as per requirement. </li>
+                                                <li>Integration of payment system etc. </li>
+                                            </ul>
+                                        </p>
+                                    </div>
+                                </div><!-- /.col-md-12 -->
+
+                                <div class="col-sm-12">
+                                    <div class="time-item">
+                                        <div class="time-year">
+                                            Oct 12–Feb 14
+                                        </div>
+                                        <div class="icon-holder-time wow fadeIn" data-wow-delay=".5s">
+                                            <i class="ion-ios-circle-outline"></i>
+                                        </div>
+                                        <h4 class="time-title">
+                                        GOLPIK
+                                    </h4>
+                                        <h5 class="time-semitag"> Junior PHP Developer </h5>
+                                        <p>
+                                            <ul>
+                                                <li>I worked on a lot of projects mostly work on wordpress development. </li>
+                                                <li>Wordpress theme implementation & integration, plugin development and customization, converted HTML layouts into wordpress E-Commerce theme Development. Custom PHP applications. Also got some flavor of Magento. </li>
+                                            </ul>
                                         </p>
                                     </div>
                                 </div><!-- /.col-md-12 -->

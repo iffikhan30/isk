@@ -21,10 +21,10 @@
     <section id="home" class="header" style="background-image: url('./../assets/images/cover.jpg')">
         <div class="sector">
             <div class="box">
-                <h1> J </h1>
+                <h1> I </h1>
             </div>
-            <h1 class="main-title"> John Doe </h1>
-            <h4 class="tagline"> Web | UI designer </h4>
+            <h1 class="main-title"> Irfan Sarwar Khan </h1>
+            <h4 class="tagline"> Senior UI/UX Engineer </h4>
         </div>
     </section> 
 </div>

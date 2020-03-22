@@ -46,26 +46,26 @@
                         <h3> Skills </h3>
                         
                         <div class="skill-holder">
-                        <carousel :autoplay="false" :dots="false" :items="1" :nav="true" 
+                        <carousel :autoplay="true" :dots="false" :items="1" :nav="true" 
                         :navText="['<span class=ion-ios-arrow-left></span>','<span class=ion-ios-arrow-right></span>']"
                         :addClassActive="true">
                             <div class="skill-area">
                             <h4 class="skill-title"> Professional </h4><!-- /.skill type name -->
                                 
-                                <div class="skillbar clearfix" data-percent="90%">
+                                <div class="skillbar clearfix" data-percent="95%">
                                     <div class="skillbar-title">
-                                        <span>CSS</span>
+                                        <span>PHP { WP }</span>
                                     </div>
                                     <div class="skillbar-bg">
                                     </div>
                                     <div class="skillbar-bar to-animate">
                                     </div>
                                     <div class="skill-bar-percent">
-                                        90%
+                                        95%
                                     </div>
                                 </div> <!-- /.skill bar -->
                                 
-                                <div class="skillbar clearfix" data-percent="95%">
+                                <div class="skillbar clearfix" data-percent="85%">
                                     <div class="skillbar-title">
                                         <span>HTML</span>
                                     </div>
@@ -74,7 +74,7 @@
                                     <div class="skillbar-bar to-animate">
                                     </div>
                                     <div class="skill-bar-percent">
-                                        95%
+                                        85%
                                     </div>
                                 </div> <!-- /.skill bar -->
 
@@ -107,48 +107,22 @@
 
                             <div class="skill-area">
                             <h4 class="skill-title"> Intermediate </h4><!-- /.skill type name -->
-                                <div class="skillbar clearfix" data-percent="80%">
+                                <div class="skillbar clearfix" data-percent="60%">
                                     <div class="skillbar-title">
-                                        <span>Portrait Sketch</span>
+                                        <span>PHP FW {CI, Cake, Laravel}</span>
                                     </div>
                                     <div class="skillbar-bg">
                                     </div>
                                     <div class="skillbar-bar">
                                     </div>
                                     <div class="skill-bar-percent">
-                                        80%
-                                    </div>
-                                </div> <!-- /.skill bar -->
-
-                                <div class="skillbar clearfix" data-percent="75%">
-                                    <div class="skillbar-title">
-                                        <span>Photography</span>
-                                    </div>
-                                    <div class="skillbar-bg">
-                                    </div>
-                                    <div class="skillbar-bar">
-                                    </div>
-                                    <div class="skill-bar-percent">
-                                        75%
-                                    </div>
-                                </div> <!-- /.skill bar -->
-
-                                <div class="skillbar clearfix" data-percent="90%">
-                                    <div class="skillbar-title">
-                                        <span>iOS</span>
-                                    </div>
-                                    <div class="skillbar-bg">
-                                    </div>
-                                    <div class="skillbar-bar">
-                                    </div>
-                                    <div class="skill-bar-percent">
-                                        90%
+                                        60%
                                     </div>
                                 </div> <!-- /.skill bar -->
 
                                 <div class="skillbar clearfix" data-percent="88%">
                                     <div class="skillbar-title">
-                                        <span>Android</span>
+                                        <span>PHP { OpenCart,Magento 1.9 }</span>
                                     </div>
                                     <div class="skillbar-bg">
                                     </div>
@@ -158,26 +132,43 @@
                                         88%
                                     </div>
                                 </div> <!-- /.skill bar -->
+
+                                
+
+                                
                             </div> <!-- /.skill area -->
                             
                             <div class="skill-area">
                             <h4 class="skill-title"> Beginner </h4><!-- /.skill type name -->
-                                <div class="skillbar clearfix" data-percent="20%">
+                                <div class="skillbar clearfix" data-percent="50%">
                                     <div class="skillbar-title">
-                                        <span>Laziness</span>
+                                        <span>Vue JS [Frontend]</span>
                                     </div>
                                     <div class="skillbar-bg">
                                     </div>
                                     <div class="skillbar-bar">
                                     </div>
                                     <div class="skill-bar-percent">
-                                        20%
+                                        50%
                                     </div>
                                 </div> <!-- /.skill bar -->
 
                                 <div class="skillbar clearfix" data-percent="40%">
                                     <div class="skillbar-title">
-                                        <span>Swimming</span>
+                                        <span>React JS [Frontend]</span>
+                                    </div>
+                                    <div class="skillbar-bg">
+                                    </div>
+                                    <div class="skillbar-bar">
+                                    </div>
+                                    <div class="skill-bar-percent">
+                                        40%
+                                    </div>
+                                </div> <!-- /.skill bar -->
+
+                                <div class="skillbar clearfix" data-percent="40%">
+                                    <div class="skillbar-title">
+                                        <span>Angular JS [Frontend]</span>
                                     </div>
                                     <div class="skillbar-bg">
                                     </div>
@@ -205,54 +196,84 @@
                                 <div class="col-sm-12">
                                     <div class="time-item">
                                         <div class="time-year">
-                                            2013-Present
+                                            2018
                                         </div>
                                         <div class="icon-holder-time wow fadeIn">
                                             <i class="ion-ios-circle-outline"></i>
                                         </div>
                                         <h4 class="time-title">
-                                        ILD University of Technology
+                                        NED UNIVERSITY OF ENGINEERING AND TECHNOLOGY  (3.23 GP)
                                     </h4>
-                                        <h5 class="time-semitag"> Major in Computer Science </h5>
+                                        <h5 class="time-semitag"> Master in Computer Science & Information Technology </h5>
                                         <p>
-                                            Given two spirit very unto firmament. Fourth and she'd their fruit together.
+                                            <ul>
+                                                <li>Image Processing And Computer Vision </li>
+                                                <li>Software Project Management</li>
+                                                <li>Natural Language Processing(NLP)</li>
+                                                <li>Distributed Intelligent Systems (DIS)</li>
+                                            </ul>
                                         </p>
                                     </div>
                                 </div><!-- /.col-md-12 -->
                                 <div class="col-sm-12">
                                     <div class="time-item">
                                         <div class="time-year">
-                                            2011-2013
+                                            2014
                                         </div>
                                         <div class="icon-holder-time wow fadeIn" data-wow-delay=".25s">
                                             <i class="ion-ios-circle-outline"></i>
                                         </div>
                                         <h4 class="time-title">
-                                        Newton College of Science & Arts
+                                        UNIVERSITY OF KARACHI 
                                     </h4>
-                                        <h5 class="time-semitag"> Standard Applied Science </h5>
-                                        <p>
-                                            Given two spirit very unto firmament. Fourth and she'd their fruit together.
-                                        </p>
+                                        <h5 class="time-semitag"> Master of Computer Science (MCS) (1st Division) (2014)  </h5>
                                     </div>
                                 </div><!-- /.col-md-12 -->
                                 <div class="col-sm-12">
                                     <div class="time-item">
                                         <div class="time-year">
-                                            2009-2011
+                                            2011
                                         </div>
                                         <div class="icon-holder-time wow fadeIn" data-wow-delay=".5s">
                                             <i class="ion-ios-circle-outline"></i>
                                         </div>
                                         <h4 class="time-title">
-                                        Twinkle Higher Secondary School
-                                    </h4>
-                                        <h5 class="time-semitag"> Standard Secondary Science </h5>
-                                        <p>
-                                            Given two spirit very unto firmament. Fourth and she'd their fruit together.
-                                        </p>
+                                        FUUAST
+                                        </h4>
+                                        <h5 class="time-semitag"> Bachelor of Science (BSC) (3.38 C.G.P.A) (2011) </h5>
                                     </div>
                                 </div><!-- /.col-md-12 -->
+
+                                <div class="col-sm-12">
+                                    <div class="time-item">
+                                        <div class="time-year">
+                                            2008
+                                        </div>
+                                        <div class="icon-holder-time wow fadeIn" data-wow-delay=".5s">
+                                            <i class="ion-ios-circle-outline"></i>
+                                        </div>
+                                        <h4 class="time-title">
+                                        P.E.C.H.S Education Foundation Govt. Degree Science College
+                                        </h4>
+                                        <h5 class="time-semitag"> Pre-Engineering </h5>
+                                    </div>
+                                </div><!-- /.col-md-12 -->
+
+                                <div class="col-sm-12">
+                                    <div class="time-item">
+                                        <div class="time-year">
+                                            2006
+                                        </div>
+                                        <div class="icon-holder-time wow fadeIn" data-wow-delay=".5s">
+                                            <i class="ion-ios-circle-outline"></i>
+                                        </div>
+                                        <h4 class="time-title">
+                                        Board of Secondary Education Karachi
+                                        </h4>
+                                        <h5 class="time-semitag"> Matriculation </h5>
+                                    </div>
+                                </div><!-- /.col-md-12 -->
+
                             </div><!-- /.row -->
                         </div><!-- /.time-line -->
                     </div><!-- /.section-holder -->
@@ -371,7 +392,7 @@ export default {
 
 .time-year {
     position: absolute;
-    top: 50%;
+    top: 20%;
     right: 0;
     -webkit-transform: translateY(-50%);
             transform: translateY(-50%);

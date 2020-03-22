@@ -40,15 +40,12 @@
                             <i class="ion-ios-wineglass-outline"></i>
                         </div>
                         <h3> Lets Talk </h3>
-                        <h5>Location: 4826 Horner Ave, Toronto</h5>
-                        <h5>Email: contact@yourmail.com</h5>
-                        <h5>Phone: 416-850-6996</h5>
+                        <h5>Location: House # H-25, 1st Floor, Rafa-e-aam Society,Malir Halt, Karachi, Pakistan.</h5>
+                        <h5>Email: irfan.sarwar.khan30@gmail.com</h5>
+                        <h5>Phone: +923122264990 | +923158142135</h5>
                         <a href="https://maps.google.com/maps?q=4826+Horner+Avet,+Toronto,+Canada&amp;hl=en&amp;t=v&amp;hnear=4826+Horner+Avet,+Toronto,+Canada" class="mfp-iframe popup-it"><h4 class="map-open"> Open Map </h4></a>
                         <div class="social-links">
-                            <a href="#url"> <i class="ion-social-twitter-outline i-size-small"></i> </a>
-                            <a href="#url"> <i class="ion-social-facebook-outline i-size-small"></i> </a>
-                            <a href="#url"> <i class="ion-social-dribbble-outline i-size-small"></i> </a>
-                            <a href="#url"> <i class="ion-social-github-outline i-size-small"></i> </a>
+                            <a href="https://github.com/iffikhan30"> <i class="ion-social-github-outline i-size-small"></i> </a>
                         </div><!-- /.social-links -->
                     </div><!-- /.section-holder -->
                 </div><!-- /.col-sm-4 -->

@@ -42,15 +42,12 @@
                             <img src="./../assets/images/avatar.jpg" class="img-responsive img-circle" alt="John Doe">
                         </div>
                         <div class="sep-mini"></div>
-                        <h4> Name: John Stuart Doe </h4>
-                        <h4> Date of birth: 28-Aug-1990 </h4>
-                        <h4> Nationality: Canadian </h4>
+                        <h4> Name: Irfan Sarwar Khan </h4>
+                        <h4> Date of birth: 30-Dec-1990 </h4>
+                        <h4> Nationality: Pakistani </h4>
                         
                          <div class="social-links">
-                            <a href="#url"> <i class="ion-social-twitter-outline i-size-small"></i> </a>
-                            <a href="#url"> <i class="ion-social-facebook-outline i-size-small"></i> </a>
-                            <a href="#url"> <i class="ion-social-dribbble-outline i-size-small"></i> </a>
-                            <a href="#url"> <i class="ion-social-github-outline i-size-small"></i> </a>
+                            <a href="https://github.com/iffikhan30"> <i class="ion-social-github-outline i-size-small"></i> </a>
                          </div><!-- /.social-links -->
                         <!-- id used as tooltip title -->
                         <a class="tooltip-cl cv-download" data-tooltip="Download CV" href="#cv-url"> <i class="ion-ios-download-outline i-size-small"></i> </a>
@@ -67,25 +64,23 @@
                         </div>
                         <h3 class="section-title"> About Me </h3>
                         <p>
-                            Beast. Meat set greater she'd creeping from were under bearing won't wherein it open. Light. From midst all fill saying day Very void land their fly.
-                            <br/>
-                            Heaven green without whose replenish seasons there brought, over own sixth in Beginning. 
-                            <br/> <br/>All behold. Our every fruitful so.  
+                            Obtain challenging position of a software developer to make use of my skills<br/> and abilities 
+                            for betterment of the organization and grow professionally <br/>in my career.   
                         </p>
                         
-                        <!-- hobbies -->
+                        <!-- hobbies 
                         <div class="icon-holder i-size-small">
-                            <i class="ion-ios-baseball-outline"></i>
-                        </div>
+                            <i class="ion-ios-flame-outline"></i>
+                        </div>-->
                         <h4> Hobbies </h4>
-                        <p> bicycling | gaming | hiking | photography </p>
+                        <p> bicycling | gaming | spent time family </p>
                         
-                        <!-- twitter feed -->
+                        <!-- twitter feed 
                         <div class="icon-holder i-size-small">
                             <i class="ion-social-twitter-outline"></i>
                         </div>
                         <h4> Latest Tweet </h4>
-                        <div class="tweet"></div>
+                        <div class="tweet"></div>-->
 
                     </div><!-- /.section-holder -->
                 </div><!-- /.col -->
