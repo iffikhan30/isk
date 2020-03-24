@@ -18,7 +18,7 @@
             <div class="menu-bar"></div>
         </div>
     </nav>
-    <section id="home" class="header" style="background-image: url('./../assets/images/cover.jpg')">
+    <section id="home" class="header" :style="{'background-image': 'url('+require('./../assets/images/cover.jpg')+')'}">
         <div class="sector">
             <div class="box">
                 <h1> I </h1>
@@ -301,7 +301,7 @@ section {
 * ------------------------------------- */
 .header {
     background-size: cover;
-    background-position: center;
+    background-position: top center;
     height: 400px;
     width: 100%;
     position: relative;
