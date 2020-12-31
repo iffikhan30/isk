@@ -6,7 +6,7 @@
     Description: CV, Resume, Portfolio Minimal HTML5 Template
 */
 
-(function($) {
+$(document).ready(function(){
 
     "use strict";
 
@@ -30,54 +30,54 @@
     });
 
     /* ---- Owl Carousel Testimonial ---- */
-    $(".testi-holder").owlCarousel({
-        singleItem: true,
-        navigationText: [
-            '<span class="ion-ios-arrow-left"></span>',
-            '<span class="ion-ios-arrow-right"></span>'
-        ],
-        navigation: true,
-        pagination: false,
-        transitionStyle: "fade"
-    });
+    // $(".testi-holder").owlCarousel({
+    //     singleItem: true,
+    //     navigationText: [
+    //         '<span class="ion-ios-arrow-left"></span>',
+    //         '<span class="ion-ios-arrow-right"></span>'
+    //     ],
+    //     navigation: true,
+    //     pagination: false,
+    //     transitionStyle: "fade"
+    // });
 
     /* ---- Owl Carousel Skill ---- */
-    $(".skill-holder").owlCarousel({
-        singleItem: true,
-        navigationText: [
-            '<span class="ion-ios-arrow-left"></span>',
-            '<span class="ion-ios-arrow-right"></span>'
-        ],
-        navigation: true,
-        pagination: false,
-        addClassActive : true,
-        afterMove: function() {
-            if($(this).find('active')) {
-                $('.active .skillbar').each(function() {
-                    if (!$(this).find('.skillbar-bar').hasClass('to-animate')) {
-                        $(this).find('.skillbar-bar').addClass('to-animate');
-                        animateSkill(950);
-                    }
-                });   
-            }
-        }
-    });
+    // $(".skill-holder").owlCarousel({
+    //     singleItem: true,
+    //     navigationText: [
+    //         '<span class="ion-ios-arrow-left"></span>',
+    //         '<span class="ion-ios-arrow-right"></span>'
+    //     ],
+    //     navigation: true,
+    //     pagination: false,
+    //     addClassActive : true,
+    //     afterMove: function() {
+    //         if($(this).find('active')) {
+    //             $('.active .skillbar').each(function() {
+    //                 if (!$(this).find('.skillbar-bar').hasClass('to-animate')) {
+    //                     $(this).find('.skillbar-bar').addClass('to-animate');
+    //                     animateSkill(950);
+    //                 }
+    //             });   
+    //         }
+    //     }
+    // });
 
     /* ---- Owl Carousel Portfolio ---- */
-    $(".port-holder").owlCarousel({
-        items: 3,
-        itemsDesktop: false,
-        itemsDesktopSmall: [991, 2],
-        itemsTablet: [768, 1],
-        itemsTabletSmall: false,
-        itemsMobile: false, //[479,1], 
-        navigationText: [
-            '<span class="ion-ios-arrow-left"></span>',
-            '<span class="ion-ios-arrow-right"></span>'
-        ],
-        navigation: true,
-        pagination: false
-    });
+    // $(".port-holder").owlCarousel({
+    //     items: 3,
+    //     itemsDesktop: false,
+    //     itemsDesktopSmall: [991, 2],
+    //     itemsTablet: [768, 1],
+    //     itemsTabletSmall: false,
+    //     itemsMobile: false, //[479,1], 
+    //     navigationText: [
+    //         '<span class="ion-ios-arrow-left"></span>',
+    //         '<span class="ion-ios-arrow-right"></span>'
+    //     ],
+    //     navigation: true,
+    //     pagination: false
+    // });
 
     /* ---- Magnific Popup ---- */
     $('.popup-it').magnificPopup({
@@ -97,16 +97,17 @@
     });
 
     /* ---- Twitter, Change username ---- */
-    $('.tweet').twittie({
-        username: 'envato', // Change username
-        count: 1,
-        dateFormat: '%d/%b/%y',
-        template: '<strong class="date">{{date}}</strong> - {{tweet}} - {{screen_name}} ',
-        apiPath: 'assets/js/api/tweet.php'
-    });
+    // $('.tweet').twittie({
+    //     username: 'envato', // Change username
+    //     count: 1,
+    //     dateFormat: '%d/%b/%y',
+    //     template: '<strong class="date">{{date}}</strong> - {{tweet}} - {{screen_name}} ',
+    //     apiPath: 'assets/js/api/tweet.php'
+    // });
 
     /* ---- Menu Toggle Class ---- */
     $('.menu-holder').on('click', function() {
+        
         $('.menu').toggleClass('menu-active');
     });
 
@@ -148,4 +149,4 @@
     /* ---- WOW JS ---- */
     new WOW().init();
 
-})(jQuery);
+});

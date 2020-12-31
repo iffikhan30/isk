@@ -61,7 +61,7 @@
 
                                <div class="col-sm-6">
 
-                                   <input type="text" class="form-control" id="inputName" placeholder="Your Name" required>
+                                   <input type="text" class="form-control" name="name" id="inputName" placeholder="Your Name" required>
                                     <span class="form-control-feedback">
                                         <i class="ion-ios-grid-view-outline"></i>
                                     </span>
@@ -69,7 +69,7 @@
                                 </div>
 
                                 <div class="col-sm-6">
-                                    <input type="email" class="form-control" id="inputEmail" placeholder="Your Email" required>
+                                    <input type="email" class="form-control" name="email" id="inputEmail" placeholder="Your Email" required>
 
                                     <span class="form-control-feedback">
                                         <i class="ion-ios-grid-view-outline"></i>
@@ -79,14 +79,14 @@
 
                             <div class="form-group">
                                 <div class="col-sm-6">
-                                    <input type="text" class="form-control" id="inputPhone" placeholder="Phone (optional)">
+                                    <input type="text" class="form-control" name="phone" id="inputPhone" placeholder="Phone (optional)" required>
 
                                     <span class="form-control-feedback">
                                         <i class="ion-ios-grid-view-outline"></i>
                                     </span>
                                 </div>
                                 <div class="col-sm-6">
-                                    <input type="text" class="form-control" id="inputSubject" placeholder="Subject" required>
+                                    <input type="text" class="form-control" name="subject" id="inputSubject" placeholder="Subject" required>
 
                                     <span class="form-control-feedback">
                                         <i class="ion-ios-grid-view-outline"></i>
@@ -95,13 +95,25 @@
                             </div><!-- /.form-group -->
                             <div class="form-group message">
                                 <div class="col-sm-12">
-                                    <textarea class="form-control" id="inputMessage" rows="4" placeholder="Message" required></textarea>
+                                    <textarea class="form-control" id="inputMessage" name="message" rows="4" placeholder="Message" required></textarea>
 
                                     <span class="form-control-feedback">
                                         <i class="ion-ios-grid-view-outline"></i>
                                     </span>
                                 </div>
                             </div><!-- /.form-group -->
+
+                            <div class="form-group message">
+                                <div class="col-sm-12">
+                                    <input type="hidden" value="" id="inputCaptchahidden"/>
+                                    <input class="form-control" id="inputCaptcha" required placeholder="5+7" />
+
+                                    <span class="form-control-feedback">
+                                        <i class="ion-ios-grid-view-outline"></i>
+                                    </span>
+                                </div>
+                            </div><!-- /.form-group -->
+
                             <div class="form-group">
                                 <div class="col-sm-8">
                                     <button type="submit" id="form-submit" class="btn btn-cl">SEND MESSAGE</button>
@@ -122,6 +134,17 @@ export default {
   name: 'Reachme',
   props: {
     msg: String
+  },
+  methods : {
+    randomNumber1 : function(){
+      return Math.floor(Math.random() * (10 - 1 + 1)) + 1;
+    },
+    randomNumber2 : function(){
+      return Math.floor(Math.random() * (10 - 1 + 1)) + 1;
+    },
+    totalrandmNumber : function(){
+        return this.randomNumber1+this.randomNumber2;
+    }
   }
 }
 </script>

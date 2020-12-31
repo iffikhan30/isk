@@ -266,7 +266,7 @@ export default {
 /* -------------------------------------
            6. TESTIMONIALS
 * ------------------------------------- */
-.owl-item .testi-item  img {
+.owl-carousel .owl-item .testi-item  img {
     width: 50px;
     height: 50px;
     margin-bottom: 15px;
