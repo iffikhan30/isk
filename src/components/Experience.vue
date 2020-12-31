@@ -194,7 +194,7 @@
                             <div></div>
                             <div></div>
                             <div></div>
-                        </div>
+                        </div> 
                         <!-- /.right line -->
 
                         <div class="icon-holder i-size-big">

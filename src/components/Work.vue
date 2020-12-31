@@ -22,7 +22,7 @@
                
                             <div class="col-sm-12">
                                 <div class="box-it">
-                                    <a href="http://www.royalwatche.com/" target="_blank" class="mfp-image popup-it">
+                                    <a href="http://www.royalwatche.com/" target="_blank" class="mfp-image popup-itsss">
                                         <img src="./../assets/images/portfolio/port1.jpg" class="img-responsive" alt="">
                                         <div class="box-inner">
                                             <div class="i-size-med">
@@ -40,7 +40,7 @@
                     <div class="">
                             <div class="col-sm-12">
                                 <div class="box-it">
-                                    <a href="http://bykonzept.com/" target="_blank" class="mfp-iframe popup-it">
+                                    <a href="http://bykonzept.com/" target="_blank" class="mfp-iframe popup-itsss">
                                         <img src="./../assets/images/portfolio/port2.jpg" class="img-responsive" alt="">
                                         <div class="box-inner">
                                             <div class="i-size-med">
@@ -61,7 +61,7 @@
                             <!-- Portfolio items -->
                             <div class="col-sm-12">
                                 <div class="box-it">
-                                    <a href="http://www.handicraftcreations.com/" target="_blank" class="mfp-image popup-it">
+                                    <a href="http://www.handicraftcreations.com/" target="_blank" class="mfp-image popup-itsss">
                                         <img src="./../assets/images/portfolio/port3.jpg" class="img-responsive" alt="port1">
                                         <div class="box-inner">
                                             <div class="i-size-med">
@@ -79,7 +79,7 @@
                     <div class="">
                             <div class="col-sm-12">
                                 <div class="box-it">
-                                    <a href="http://www.nuavenuerealestate.com/" target="_blank" class="mfp-image popup-it">
+                                    <a href="http://www.nuavenuerealestate.com/" target="_blank" class="mfp-image popup-itsss">
                                         <img src="./../assets/images/portfolio/port4.jpg" class="img-responsive" alt="port2">
                                         <div class="box-inner">
                                             <div class="i-size-med">
@@ -101,7 +101,7 @@
                             <!-- Portfolio items -->
                             <div class="col-sm-12">
                                 <div class="box-it">
-                                    <a href="http://www.stemcellreview.com/" target="_blank" class="mfp-iframe popup-it">
+                                    <a href="http://www.stemcellreview.com/" target="_blank" class="mfp-iframe popup-itsss">
                                         <img src="./../assets/images/portfolio/port5.jpg" class="img-responsive" alt="port3">
                                         <div class="box-inner">
                                             <div class="i-size-med">
@@ -119,7 +119,7 @@
                     <div class="">
                             <div class="col-sm-12">
                                 <div class="box-it">
-                                    <a href="https://www.nationalinjuryhelp.com/" target="_blank" class="mfp-image popup-it">
+                                    <a href="https://www.nationalinjuryhelp.com/" target="_blank" class="mfp-image popup-itsss">
                                         <img src="./../assets/images/portfolio/port6.jpg" class="img-responsive" alt="port4">
                                         <div class="box-inner">
                                             <div class="i-size-med">
@@ -140,7 +140,7 @@
                          
                             <div class="col-sm-12">
                                 <div class="box-it">
-                                    <a href="http://www.aljiyadstables.com/" target="_blank" class="mfp-image popup-it">
+                                    <a href="http://www.aljiyadstables.com/" target="_blank" class="mfp-image popup-itsss">
                                         <img src="./../assets/images/portfolio/port7.jpg" class="img-responsive" alt="port5">
                                         <div class="box-inner">
                                             <div class="i-size-med">
@@ -158,7 +158,7 @@
                     <div class="">
                             <div class="col-sm-12">
                                 <div class="box-it">
-                                    <a href="https://www.etopiacorp.com/" target="_blank" class="mfp-image popup-it">
+                                    <a href="https://www.etopiacorp.com/" target="_blank" class="mfp-image popup-itsss">
                                         <img src="./../assets/images/portfolio/port8.jpg" class="img-responsive" alt="port6">
                                         <div class="box-inner">
                                             <div class="i-size-med">
@@ -179,7 +179,7 @@
                             
                             <div class="col-sm-12">
                                 <div class="box-it">
-                                    <a href="http://www.sdlearningconsortium.org/" target="_blank" class="mfp-iframe popup-it">
+                                    <a href="http://www.sdlearningconsortium.org/" target="_blank" class="mfp-iframe popup-itsss">
                                         <img src="./../assets/images/portfolio/port9.jpg" class="img-responsive" alt="port7">
                                         <div class="box-inner">
                                             <div class="i-size-med">

@@ -46,7 +46,7 @@
                         <h4> Date of birth: 30-Dec-1990 </h4>
                         <h4> Nationality: Pakistani </h4>
                         
-                         <div class="social-links">
+                         <div class="social-links">  
                             <a href="https://github.com/iffikhan30"> <i class="ion-social-github-outline i-size-small"></i> </a>
                          </div><!-- /.social-links -->
                         <!-- id used as tooltip title -->
