@@ -46,6 +46,8 @@
                         <a href="https://maps.google.com/maps?q=4826+Horner+Avet,+Toronto,+Canada&amp;hl=en&amp;t=v&amp;hnear=4826+Horner+Avet,+Toronto,+Canada" class="mfp-iframe popup-it"><h4 class="map-open"> Open Map </h4></a>
                         <div class="social-links">
                             <a href="https://github.com/iffikhan30"> <i class="ion-social-github-outline i-size-small"></i> </a>
+                            <a href="https://www.linkedin.com/in/iffikhan30/"> <i class="ion-social-linkedin-outline i-size-small"></i> </a>
+                            <a href="https://www.instagram.com/iffikhan30/"> <i class="ion-social-instagram-outline i-size-small"></i> </a>
                         </div><!-- /.social-links -->
                     </div><!-- /.section-holder -->
                 </div><!-- /.col-sm-4 -->
